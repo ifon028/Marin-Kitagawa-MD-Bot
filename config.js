@@ -7,18 +7,18 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['918373017400']
-global.OwnerNumber = ['918373017400']
-global.ownertag = ['918373017400']
-global.BotName = "𝑀𝒶𝓇𝒾𝓃-ᴋɪᴛᴀɢᴀᴡᴀ"
-global.packname = "𝑀𝒶𝓇𝒾𝓃-ʙᴏᴛ"
-global.author = "By: ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
-global.OwnerName = "ᥴꫝꫀꪗ-𝙎𝙖𝙣💫🌙✨"
+global.Owner = ['6285736938192']
+global.OwnerNumber = ['6285736938192']
+global.ownertag = ['62895604931234']
+global.BotName = "NAI∆Bot"
+global.packname = "ifon"
+global.author = "By: ifon-𝙎𝙖𝙣💫🌙✨"
+global.OwnerName = "ifon-𝙎𝙖𝙣💫🌙✨"
 global.BotSourceCode = "https://github.com/Chey-san/Marin-Kitagawa-MD-Bot"
 global.SupportGroupLink = "https://chat.whatsapp.com/G0dZXqJAL9b1boqnra7eb4"
 global.sessionName = "session"
-global.prefa = ['-']
-global.location = "West Bengal, India"
+global.prefa = ['.']
+global.location = "Asia, Jakarta"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://telegra.ph/file/17ecc2eece63a4d8bcd51.mp4' }
@@ -53,19 +53,19 @@ global.ntilink = []
 
 
 global.mess = {
-    jobdone: 'Job done...',
-    useradmin: 'Sorry, only *Group Admins* can use this command *Baka*!',
-    botadmin: 'Sorry, i cant execute this command without being an *Admin* of this group.',
-    botowner: 'Only my *Owner* & ᥴꫝꫀꪗ-senpai ❣️ can use this command, Baka!',
-    grouponly: 'This command is only made for *Groups*, Baka!',
-    privateonly: 'This command is only made for *Private Chat*, Baka!',
-    botonly: 'Only the *Bot itself* can use this command!',
-    waiting: 'Chotto Matte...',
-    nolink: 'Please provide me *link*, Baka!',
-    error: 'An error occurd!',
-    banned: 'You are *Banned* fron using commands!',
-    bangc: 'This Group is *Banned* from using Commands!',
-    nonsfw: 'Dont be a pervert Baka! This is not a NSFW enabled group!'
+    jobdone: 'Pekerjaan selesai...',
+    useradmin: 'Maaf, hanya *Admin Grup* yang dapat menggunakan perintah ini *Baka*!',
+    botadmin: 'Maaf, saya tidak dapat menjalankan perintah ini tanpa menjadi *Admin* grup ini.',
+    botowner: 'Hanya *Owner* & ᥴꫝꫀꪗ-senpai ❣️ saya yang dapat menggunakan perintah ini, Baka!',
+    grouponly: 'Perintah ini hanya dibuat untuk *Grup*, Baka!',
+    privateonly: 'Perintah ini hanya dibuat untuk *Obrolan Pribadi*, Baka!',
+    botonly: 'Hanya *Bot itu sendiri* yang dapat menggunakan perintah ini!',
+    waiting: 'tunggu sebentar...',
+    nolink: 'Tolong berikan saya *tautan*, Baka!',
+    error: 'Terjadi kesalahan!',
+    banned: 'Anda *Dilarang* menggunakan perintah!',
+    bangc: 'Grup ini *Dilarang* menggunakan Perintah!',
+    nonsfw: 'Jangan jadi orang mesum, Baka! Ini bukan grup yang mendukung NSFW!'
     
 }
 
